@@ -1,0 +1,54 @@
+    #cantainer {
+        text-align: center;
+        padding: 20px 100px;
+        margin: 0px;
+    }
+    
+    #imge {
+        margin: 0 auto;
+        margin-bottom: 5px;
+    }
+    
+    h1 {
+        text-decoration: underline;
+        padding: auto;
+        margin: 0px;
+        padding: 20px 15px;
+    }
+    
+    #text {
+        font-size: 15px;
+        text-align: justify;
+        padding: 8px 10px;
+        margin: 5px;
+    }
+    
+    .btn {
+        height: 25px;
+        width: 25px;
+        display: inline-block;
+        border-radius: 50%;
+        cursor: pointer;
+        border: solid 2px;
+        border-color: #cbeb91;
+    }
+    
+    .circle {
+        text-align: right;
+    }
+    
+    #aqua {
+        background-color: aqua;
+    }
+    
+    #voilet {
+        background-color: violet;
+    }
+    
+    #white {
+        background-color: white;
+    }
+    
+    #black {
+        background-color: black;
+    }
